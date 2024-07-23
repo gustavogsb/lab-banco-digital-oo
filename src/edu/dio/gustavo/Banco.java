@@ -1,3 +1,4 @@
+package edu.dio.gustavo;
 import java.util.List;
 
 public class Banco {

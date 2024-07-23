@@ -1,3 +1,4 @@
+package edu.dio.gustavo;
 
 public class Cliente {
 
